@@ -1,0 +1,17 @@
+.CardGallery {
+  user-select: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.CardGalleryWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.CardGalleryImage {
+  display: inline-block;
+  position: relative;
+  transition: left linear .4s;
+}

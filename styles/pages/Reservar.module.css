@@ -1,0 +1,196 @@
+.Reservar {
+  max-width: 800px;
+  margin: 2% auto;
+}
+
+.ReservarGrid {
+  display: grid;
+  grid-template-columns: 33% auto;
+  gap: 4px 16px;
+}
+
+.ReservarGrid section {
+  box-shadow: 0 0 15px 3px rgb(0 0 0 / 7%);
+  border-radius: 3px;
+  background-color: #ffffff;
+  padding: .75em;
+}
+
+.ReservarUnitName {
+  font-size: 1.44em;
+  margin-bottom: 11px;
+}
+
+.ReservarQuarto {
+  line-height: 22px;
+}
+
+.ReservarEndereco {
+  padding-bottom: 10px;
+}
+
+.ReservarEndereco,
+.ReservarTinyLabel {
+  font-size: 13px;
+  color: #3f3f3f;
+}
+
+.ReservarInfoBox {
+  padding: .77em;
+  padding-top: 1.8em;
+  position: relative;
+}
+
+.ReservarInfoBox ~ .ReservarInfoBox {
+  border-top: 1px solid #eeeeee;
+}
+
+.ReservarInfoDetails {
+  font-size: 15px;
+  color: #3f3f3f;
+}
+
+.ReservarInfoDetails p {
+  line-height: 25px;
+}
+
+.ReservarLineGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.ReservarLineGrid :last-child {
+  text-align: right;
+}
+
+.ReservarInfoPrice {
+  font-weight: 600;
+  font-size: 1.55em;
+  margin: 0 .25em 0 .4em;
+  margin-bottom: 13px;
+}
+
+.ReservarInput {
+  margin: 4% 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.ReservarDadosTitle {
+  font-weight: 600;
+  font-size: 1em;
+  padding-bottom: 5px;
+}
+
+.ReservarNotice {
+  margin: 6px 0;
+  font-size: 13px;
+  width: 350px;
+}
+
+.ReservarNotice a:hover,
+.ReservarNotice a:focus {
+  text-decoration: underline;
+}
+
+.ReservarNotice a:hover::after {
+  content: ' \2197';
+  color: blue;
+}
+
+.ReservarHeader {
+  padding: 2px 0 2% 0;
+}
+
+.ReservarFooter {
+  padding: 2% 0;
+}
+
+.ReservarTermos {
+  padding: 5px 0;
+  font-size: 13px;
+  color: blue;
+}
+
+.ReservarTermos a:hover,
+.ReservarTermos a:focus {
+  opacity: .8;
+}
+
+.ReservarPayBox {
+  padding: .66em 0;
+  font-size: 14px;
+}
+
+.ReservarPayBox strong {
+  font-weight: 500;
+}
+
+.ReservarPayBox div {
+  padding: .55em 0;
+}
+
+.ReservarDadosBottom {
+  position: relative;
+  bottom: 0;
+}
+
+/* Modals */
+
+.SuccessModal,
+.ReservarModal {
+  background-color: #ffffff;
+  border: 1px solid #e2e2e2;
+}
+
+.SuccessModal h2 {
+  padding-bottom: .6em;
+  color: #00b100;
+}
+
+.SuccessModalBtns *,
+.ReservarModalBtns * {
+  margin-right: 10px;
+}
+
+.ReservarModalLogin {
+  padding: .5em 0;
+}
+
+.ReservarModalSm {
+  font-size: 14px;
+}
+
+p.ReservarModalSm {
+  padding: 4px 0;
+}
+
+.ReservarModalLogin input {
+  margin: 3px 0;
+}
+
+/* end Modals */
+
+.PayButton:focus {
+  outline: 1px solid var(--brand-color);
+}
+
+@media(max-width: 850px) {
+  .ReservarHeader {
+    padding-left: 1em;
+  }
+
+  .ReservarGrid {
+    grid-template-columns: auto;
+    gap: 16px 8px;
+    padding: .55em;
+  }
+}
+
+@media(max-width: 600px) {
+  .ReservarInput {
+    grid-template-columns: auto;
+    width: 100%;
+  }
+}

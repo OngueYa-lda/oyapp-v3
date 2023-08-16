@@ -1,0 +1,15 @@
+.Search {
+  max-width: 1000px;
+  min-height: 500px;
+  margin: 0 auto;
+  padding: 0 2%;
+  position: relative;
+  transition: all 0.5s ease;
+}
+
+.SearchResultText {
+  display: block;
+  margin: 1em 0;
+  font-size: 1.115rem;
+  line-height: 1.75rem;
+}

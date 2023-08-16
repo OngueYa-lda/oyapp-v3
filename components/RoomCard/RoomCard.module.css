@@ -1,0 +1,129 @@
+.RoomCard {
+  position: relative;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+.RoomCard ~ .RoomCard {
+  margin: 1em 0;
+}
+
+.RoomCardBody {
+  padding: 1% 6px;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  gap: 6px;
+  color: #252525;
+}
+
+.RoomCardImages {
+  width: 100%;
+  height: 300px;
+  position: relative;
+  user-select: none;
+}
+
+.RoomCardImage {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+.RoomCardDetails {
+  line-height: 30px;
+  padding: 1% 0 0 1%;
+}
+
+.RoomCardDetails i {
+  margin-right: 3px;
+}
+
+.RoomCardName {
+  font-size: 1.12em;
+  margin-bottom: 1%;
+  color: #000000;
+  text-transform: capitalize;
+}
+
+.RoomCardTipoCama {
+  text-transform: capitalize;
+}
+
+.RoomCardOptionBorderLess,
+.RoomCardOption {
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  padding: 2%;
+}
+
+.RoomCardOptionBorderLess {
+  border: none;
+  padding: 0;
+}
+
+.RoomCardOptionText {
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #292929;
+}
+
+.RoomCardOptionGrid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.RoomCardComodidades {
+  padding: 0;
+  font-size: .9em;
+  display: inline-block;
+}
+
+.RoomCardComodidade {
+  line-height: 30px;
+}
+
+.RoomCardReembolso {
+  line-height: 20px;
+}
+
+.RoomCardPrecoWrapLeftAlign,
+.RoomCardPrecoWrap {
+  text-align: right;
+  padding-right: 4px;
+}
+
+.RoomCardDisponibilidade {
+  font-size: 13px;
+}
+
+.RoomCardPrecoWrapLeftAlign {
+  text-align: left;
+}
+
+.RoomCardPreco {
+  font-size: 1.2em;
+  line-height: 30px;
+}
+
+/* Media queries */
+
+@media (max-width: 900px) {
+  .RoomCardBody {
+    grid-template-columns: auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .RoomCardOptionGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .RoomCardPrecoWrap {
+    text-align: left;
+    padding-right: 0;
+  }
+}

@@ -1,0 +1,10 @@
+.Container {
+  max-width: 1000px;
+  margin: 3% auto;
+  text-align: center;
+}
+
+.Container h1 {
+  color: #ff4141;
+  margin-top: 1em;
+}

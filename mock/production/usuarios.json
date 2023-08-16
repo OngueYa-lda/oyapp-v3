@@ -1,0 +1,23 @@
+{
+  "name": "Usuarios",
+  "data": [
+    {
+      "dataKind": "usuarios",
+      "name": "Ongueya",
+      "email": "user@exemplo.com",
+      "senha": "123pass"
+    },
+    {
+      "dataKind": "guias",
+      "name": "Ongueya",
+      "email": "guia@exemplo.com",
+      "senha": "123pass"
+    },
+    {
+      "dataKind": "parceiros",
+      "name": "Ongueya",
+      "email": "parceiro@exemplo.com",
+      "senha": "123pass"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.ErrorFallback {
+  max-width: 1000px;
+  margin: 2% auto;
+  width: 500px;
+  line-height: 30px;
+}
+
+.ErrorFallback h2 {
+  color: red;
+}
+
+.LogoWrap {
+  margin: 2em 0;
+}

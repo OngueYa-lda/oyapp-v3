@@ -1,0 +1,43 @@
+.Page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1% 2%;
+  position: relative;
+  transition: all 0.5s ease;
+  color: #333333;
+}
+
+.PageMain {
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  gap: 10px;
+  margin-top: 5%;
+  position: relative;
+  background-color: #ffffff;
+  z-index: 5;
+}
+
+/* Media queries */
+
+@media (max-width: 850px) {
+  .PageMain {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media (max-width: 700px) {
+  .PageMain {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 500px) {
+  .PageMain {
+    grid-template-columns: none;
+  }
+}
+
+/* Esquema de cores */
+
+@media (prefers-color-scheme: dark) {
+}

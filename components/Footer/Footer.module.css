@@ -1,0 +1,87 @@
+.Footer {
+  width: 100%;
+  margin-top: 50px;
+  padding-top: 30px;
+  line-height: 23px;
+  border-top: 1px solid #e2e2e2;
+  background-color: #ffffff;
+}
+
+.FooterWrap {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 0 5px;
+}
+
+.Footer span:hover,
+.Footer span:hover {
+  color: #555555;
+  text-decoration: underline;
+}
+
+.Footer section {
+  max-width: 230px;
+  margin-right: 2em;
+  margin-bottom: 1em;
+}
+
+.Footer section h3 {
+  margin-bottom: 20px;
+  font-size: .95em;
+}
+
+.FooterMission p {
+  font-size: .88em;
+  line-height: 20px;
+}
+
+.Footer section li {
+  line-height: 24px;
+  font-size: .88em;
+}
+
+.FooterCopy {
+  line-height: 2.5rem;
+  color: #161616;
+  font-size: 1em;
+  text-align: left;
+  padding-left: 23px;
+}
+
+.FooterCopy2 {
+  font-size: .75em;
+  margin-top: .77em;
+}
+
+.FooterTermos li {
+  line-height: 20px;
+}
+
+.FooterTermosInline li {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.top {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 2.65%;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.bottom {
+  border-top: 1px solid #dadada;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  font-size: .8em;
+}
+
+.socials span {
+  margin-right: 10px
+}

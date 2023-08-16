@@ -1,0 +1,161 @@
+.PageItem {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1% 12px;
+  position: relative;
+  transition: all 0.5s ease;
+}
+
+.PageItemOverview {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.PageItemPrice,
+.PageItemHeader,
+.PageItemBox {
+  background-color: #ffffff;
+  border: 1px solid #dadada;
+  border-radius: 5px;
+  padding: 3%;
+  margin: 2% 0;
+}
+
+.PageItemName {
+  font-size: 1.90em;
+  margin-bottom: 5px;
+}
+
+.PageItemStars {
+  margin: 1em 0;
+}
+
+.PageItemLocalizacao {
+  font-size: 14px;
+}
+
+.PageItemComodidades {
+  padding: 4px 0;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
+
+.PageItemComodidade {
+  display: inline-block;
+}
+
+.PageItemComodidade ~ .PageItemComodidade {
+  margin-left: 2em;
+}
+
+.PageItemCancelamento p {
+  line-height: 25px;
+}
+
+.PageItemGuiatur {
+  font-weight: bold;
+  color: #2738f4;
+  padding-top: 10px;
+}
+
+.ComodidadesGrid {
+  display: grid;
+  font-size: .875rem;
+  line-height: 1.25rem;
+  gap: 1.5rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.ComodidadesGridItem p {
+  padding-bottom: .8em;
+}
+
+.PageItemGalleryWrap {
+  padding: 2px 0;
+}
+
+.PageItemPrice {
+  position: sticky;
+  top: 6em;
+  margin: 1em 0 0 1em;
+  width: 280px;
+  height: 184px;
+}
+
+.PageItemLinks {
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+  z-index: 2;
+  height: 44px;
+  /* border-bottom: 1px solid #dadada; */
+}
+
+.PageItemLinks li {
+  display: inline-block;
+}
+
+.PageItemLinks a {
+  display: block;
+  padding: 12px 7px;
+  font-size: 14px;
+  color: #292929;
+  font-weight: 400;
+}
+
+.PageItemLinks a[data-active=true],
+.PageItemLinks a[data-active=true]:hover,
+.PageItemLinks a[data-active=true]:focus {
+  border-bottom: 2px solid #b2b3ff;
+  background-color: #f8f9ff;
+  color: #000286;
+}
+
+.PageItemLinks a:hover,
+.PageItemLinks a:focus {
+  color: #000286;
+  border-bottom: 2px solid #dadada;
+}
+
+.ItemPriceLabel {
+  font-size: .7em;
+}
+
+.ItemPriceText {
+  font-size: 1.875em;
+  margin: 6px 0;
+}
+
+.ItemHours {
+  margin: 1em 0;
+  display: flex;
+}
+
+.ItemHour {
+  display: inline-block;
+  font-size: 15px;
+  margin-right: 2.4em;
+}
+
+.ItemHours i,
+.ItemHour span {
+  margin-right: 3px;
+}
+
+.PageItemRooms {
+  padding: 1em 0;
+}
+
+/* Media queries */
+
+@media (max-width: 900px) {
+  .PageItemPrice {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .ComodidadesGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

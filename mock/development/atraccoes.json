@@ -1,0 +1,85 @@
+{
+  "name": "Atraccoes",
+  "data": [
+    {
+      "id": "1",
+      "dataKind": "atraccoes",
+      "name": "Animal Tour",
+      "slug": "animal-tour",
+      "localizacao": {
+        "cidade": "Luanda",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Junto"
+      },
+      "preco": {
+        "minimo": "1.500",
+        "fixo": "1.500",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "data": {
+        "dia": "14",
+        "mes": "Julho",
+        "ano": "2022",
+        "tempo": "1 hora"
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "Informacões da actividade",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 5
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cartao": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      }
+    }
+  ]
+}

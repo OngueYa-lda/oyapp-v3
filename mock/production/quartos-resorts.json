@@ -1,0 +1,131 @@
+{
+  "name": "Quartos",
+  "data": [
+    {
+      "resort": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Single (1 pax)",
+      "tamanho": null,
+      "camas": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "20.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 5.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resort": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Dupla (2 pax)",
+      "tamanho": null,
+      "camas": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "25.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 5.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "resort": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Twin",
+      "tamanho": null,
+      "camas": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "25.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 5.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    }         
+  ]
+}

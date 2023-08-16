@@ -1,0 +1,25 @@
+
+export function Star(props) {
+  const {
+    width,
+    height
+  } = props;
+
+  return (
+    <svg
+      viewBox="0 0 32 32"
+      fill="#ffb91a"
+      width={width || '16px'}
+      height={height || width || '16px'}
+      style={{
+        marginRight: '3px'
+      }}
+    >
+      <path
+        d="M32 12.408l-11.056-1.607-4.944-10.018-4.944
+      10.018-11.056 1.607 8 7.798-1.889
+      11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z">
+      </path>
+    </svg>
+  );
+}

@@ -1,0 +1,5 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/090f8cf4-cf2e-4856-a6cd-c5ba9b7a94c0/microsoft.web/sites/subscriptions/090f8cf4-cf2e-4856-a6cd-c5ba9b7a94c0/resourceGroups/oy_group/providers/Microsoft.Web/sites/ongueya",
+    "appService.deploySubpath": ".",
+    "editor.fontSize": 14
+}

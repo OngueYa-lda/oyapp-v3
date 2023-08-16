@@ -1,0 +1,45 @@
+{
+  "name": "oyweb",
+  "version": "0.0.3",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@astrajs/collections": "^0.3.4",
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@mantine/core": "^5.6.4",
+    "@mantine/hooks": "^5.6.4",
+    "@mantine/next": "^5.6.4",
+    "cloudinary": "^1.32.0",
+    "date-fns": "^2.29.2",
+    "eslint": "^8.23.0",
+    "jspdf": "^2.5.1",
+    "mongodb": "^5.1.0",
+    "next": "^13.4.12",
+    "next-axiom": "^0.14.0",
+    "react": "^18.2.0",
+    "react-dates": "^21.8.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "react-markdown": "^8.0.3",
+    "sharp": "^0.31.1",
+    "sib-api-v3-sdk": "^8.4.2",
+    "sqlite3": "^5.1.3",
+    "swiper": "^8.4.2",
+    "tedious": "^15.1.0",
+    "universal-cookie": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.17",
+    "autoprefixer": "^10.4.15",
+    "eslint-config-next": "^13.4.12",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.1.6"
+  }
+}

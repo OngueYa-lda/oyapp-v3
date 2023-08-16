@@ -1,0 +1,39 @@
+.Container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.Logo {
+  width: 140px;
+  margin: 0 auto;
+}
+
+.Logo h2 {
+  text-align: center;
+}
+
+.Ofertas {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 7px;
+  width: 400px;
+  margin: 5em auto;
+}
+
+.Ofertas div {
+  display: inline-block;
+  text-align: center;
+  padding: 1em;
+  border: 1px solid #c9c9c9;
+  border-radius: 4px;
+}
+
+.footer {
+  max-width: 400px;
+  margin: 0 auto;
+  line-height: 30px;
+}
+
+.footer a {
+  color: blue;
+}

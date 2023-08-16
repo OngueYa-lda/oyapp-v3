@@ -1,0 +1,203 @@
+.TravelSearch form {
+  border: 1px solid #dadada;
+  border-radius: 10px;
+  font-size: .9em;
+  display: flex;
+  position: relative;
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+
+.TravelSearchBtn {
+  padding: 12px 25px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: left;
+  width: 50%;
+  height: 66px;
+  position: relative;
+}
+
+.TravelSearchBtn:hover {
+  background-color: #e9e9e9;
+}
+
+.TravelSearchBtn:focus-within,
+.TravelSearchBtn:focus {
+  background-color: #ffffff;
+  box-shadow: 0 1px 6px 3px #d3d3d3;
+}
+
+.TravelSearchBtn label {
+  display: block;
+}
+
+.TravelSearchBtn input {
+  padding: 5px 0;
+  margin: 6px 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  text-transform: capitalize;
+  width: 100%;
+  color: #000000;
+}
+
+.TravelSearchWhere {
+  z-index: 2;
+}
+
+#where-input {
+  width: 100%;
+}
+
+#where-input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  background-image: url(/assets/imagens/close-solid.svg);
+  height: 1.15em;
+  width: 1.15em;
+  background-size: contain;
+  opacity: .85;
+}
+
+#where-input::-webkit-search-cancel-button:hover {
+  opacity: 1;
+}
+
+.TravelSearchSep {
+  margin: 15px 0;
+  border-left: 1px solid #d6d6d6;
+}
+
+.TravelSearchDisplayDate {
+  margin: 10px 0;
+}
+
+.TravelSearchDates {
+  display: flex;
+  width: 100%;
+}
+
+.TravelSearchSubmit {
+  position: absolute;
+  top: 9px;
+  right: 8px;
+  padding: 16px 15px;
+  background-color: var(--brand-color);
+  border-radius: 5px;
+  font-family: inherit;
+}
+
+.TravelSearchSubmit svg {
+  display: block;
+}
+
+.TravelSearchSubmit span {
+  display: none;
+}
+
+.TravelSearchCountPanel,
+.TravelSearchCities {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  max-height: 300px;
+  border: 1px solid #dadada;
+  background-color: #ffffff;
+  border-radius: 7px;
+  box-shadow: 0 3px 6px #696969;
+  overflow: hidden auto;
+  z-index: 2;
+}
+
+.TravelSearchCitiesItem {
+  padding: 16px 10px;
+  text-transform: capitalize;
+  font-size: 1.15em;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.TravelSearchCitiesItem:focus,
+.TravelSearchCitiesItem:hover {
+  background-color: #e0e0e0;
+}
+
+.TravelSearchCitiesItem i {
+  font-size: .75em;
+  padding-right: 5px;
+  color: #313131;
+}
+
+.TravelSearchCount p {
+  line-height: 21px;
+}
+
+.TravelSearchCount span:first-child {
+  font-weight: 600;
+  margin-right: 6px;
+}
+
+.TravelSearchCountPanel {
+  text-align: center;
+  padding: 1em 0;
+}
+
+.TravelSearchCountItem {
+  padding: 1em;
+}
+
+.TravelSearchCountItem button {
+  margin: 0 1em;
+  font-size: 1.4em;
+}
+
+.TravelSearchCountItem span {
+  font-size: 1.45em;
+}
+
+.TravelSearchCountConfirm {
+  font-size: 1.1em;
+}
+
+/* Media queries */
+
+@media (max-width: 700px) {
+  .TravelSearchBtn {
+    width: 100%;
+  }
+
+  .TravelSearch form,
+  .TravelSearchDates {
+    flex-direction: column;
+  }
+
+  .TravelSearch form {
+    margin-top: 3%;
+  }
+
+  .TravelSearchSubmit {
+    position: relative;
+    right: 0;
+    top: 0;
+    margin: 10px;
+  }
+
+  .TravelSearchSubmit span {
+    display: inline;
+    color: #ffffff;
+    position: absolute;
+    font-size: 1.1em;
+    font-weight: 600;
+    margin-top: -1px;
+    margin-left: -25px;
+  }
+
+  .TravelSearchSep {
+    margin: 0;
+    border: none;
+  }
+}

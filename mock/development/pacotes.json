@@ -1,0 +1,299 @@
+{
+  "name": "Pacotes",
+  "data": [
+    {
+      "id": "1",
+      "dataKind": "pacotes",
+      "name": "Passeio à Cavalo para Adultos",
+      "slug": "passeio-a-cavalo-para-adultos",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "5.750",
+        "fixo": "5.750",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é realizada num circulo fechado, numa fazenda. ",
+          "Esta actvidade oferece uma óptima experiência de passeio à cavalo. ",
+          "Os cavalos utilizados nos passeios são bem treinados, com técnicas específicas ",
+          "que se tornarão domesticados. Portanto, não há qualquer perigo para os humanos. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "A fazenda possui mais de 50 cavalos, mas apenas são usados 5 cavalos ",
+          "para os clientes. Não é temporizado o uso dos cavalos aos clientes, ",
+          "pode cavalgar o tempo que for necessário, mas deve respeitar o tempo de cada um cliente."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "2",
+      "dataKind": "pacotes",
+      "name": "Passeio à Cavalo para Crianças",
+      "slug": "passeio-a-cavalo-para-criancas",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "3.450",
+        "fixo": "3.450",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é realizada num circulo fechado, numa fazenda. ",
+          "Esta actvidade oferece uma óptima experiência de passeio à cavalo. ",
+          "Os cavalos utilizados nos passeios são bem treinados, com técnicas específicas ",
+          "que se tornarão domesticados. Portanto, não há qualquer perigo para os humanos. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "A fazenda possui mais de 50 cavalos, mas apenas são usados 5 cavalos ",
+          "para os clientes. Não é temporizado o uso dos cavalos aos clientes, ",
+          "pode cavalgar o tempo que for necessário, mas deve respeitar o tempo de cada um cliente."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "3",
+      "dataKind": "pacotes",
+      "name": "Tour Educacional",
+      "slug": "tour-educacional",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "1.955",
+        "fixo": "1.955",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/pacotes/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya3_hlmkfv.jpg"        
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é dedicada exclusivamente para crianças e adolescentes. ",
+          "Um tour guiado, feito numa fazenda, que tem como propósito divertir as crianças, bem como. ",
+          "os adolescentes, e estimulá-los aos gosto de fazer turismo. ",
+          "Estão incluídos para esta actividade: lanche + sumo natural + visita guiada. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Esta actividade é somente para as crianças e adolescente. ",
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar"
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "4",
+      "dataKind": "pacotes",
+      "name": "Acampamento na Fazenda",
+      "slug": "acampamento-na-fazenda",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "51.750",
+        "fixo": "51.750",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/pacotes/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/pacotes/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/pacotes/fazenda-tungane/acampamentto/acamp4_utciyn.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/pacotes/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg", 
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/pacotes/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg",     
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/pacotes/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg", 
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/pacotes/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg" 
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O acampamento é feito na fazenda, com todas as condições necessárias. ",
+          "Para o acampamento está incluido gratuitamente alimentação (matabicho + almoço + jantar), ",
+          "bem como, actividades como: passeio à cavalo, tour educacional, e ainda ",
+          "algumas actividades extras. O alojamento está salvaguardado, o mesmo é feito em tendas. ",
+          "Em 3 dias e 2 noites. Tudo isso para que possas ter uma óptima experiência."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": true,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    }
+  ]
+}

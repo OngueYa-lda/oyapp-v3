@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "text": "Alojamentos",
+      "url": "/hoteis"
+    },
+    {
+      "text": "Experiências",
+      "url": "/experiencias"
+    },
+    {
+      "text": "Pacotes",
+      "url": "/pacotes"
+    },
+    {
+      "text": "Lugares para visitar",
+      "url": "/atraccoes"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+.Nav {
+  padding: 1em 5px 2em 5px;
+  border-bottom: 1px solid #f0f0f0;
+  background-color: #fff;
+  max-width: 900px;
+  margin: 0 auto;
+  margin-top: 2%; 
+}
+
+.NavMini {
+  border-bottom: 1px solid #f0f0f0;
+  background-color: #ffffff;
+}
+
+.NavWrapMini {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1em;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.NavWrap {
+  max-width: 1100px;
+  margin: 0 auto;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.NavRightmost {
+  margin-top: -4px;
+}
+
+.NavRightmost,
+.NavMenu {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.NavLogo {
+  position: relative;
+  top: 2px;
+}
+
+.NavMenu li {
+  display: inline-block;
+  padding: 0 6px;
+  margin: 10px 8px;
+  font-size: .9em;
+}
+
+.NavMenu a {
+  text-decoration: none;
+}
+
+.NavMenu a:focus,
+.NavMenu a:hover {
+  color: #c2c2c2;
+}
+
+.NavLinkProperty {
+  font-size: .9em;
+  text-decoration: none;
+  padding: 12px 15px;
+  border-radius: 22px;
+  font-weight: 500;
+}
+
+.NavLinkProperty:hover,
+.NavLinkProperty:focus {
+  background-color: #f3f3f3;
+}
+
+.NavButton {
+  font-size: .9em;
+  text-decoration: none;
+  padding: 12px 15px;
+  border-radius: 22px;
+  font-weight: 500;
+  border: 1px solid #dadada;
+}
+
+.NavButton:hover,
+.NavButton:focus {
+  color: #505052;
+  box-shadow:0 0 8px 0 rgba(0,0,0,.1)
+}
+
+.NavHamburger {
+  position: relative;
+  top: 3px;
+  display: none;
+  z-index: 3000;
+}
+
+/* Media queries */
+
+@media (max-width: 1000px) {
+  .NavWrap {
+    align-items: start;
+    justify-content: space-between;
+    padding-left: .5em;
+  }
+
+  .NavRightmost {
+    align-items: end;
+    margin: 7px 0;
+  }
+
+  .NavHamburger {
+    margin-left: 10px;
+  }
+}
+
+@media (max-width: 900px) {
+  .NavMenu {
+    display: none;
+  }
+
+  .NavHamburger {
+    display: block;
+  }
+}
+
+@media (max-width: 700px) {
+  .NavLinkProperty {
+    display: none;
+  }
+}

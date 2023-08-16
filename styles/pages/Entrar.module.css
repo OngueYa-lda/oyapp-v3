@@ -1,0 +1,67 @@
+.Entrar {
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+.EntrarForm {
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+  background-color: #ffffff;
+  padding: 20px;
+  width: 100%;
+  max-width: 333px;
+  margin: 7% auto;
+  overflow: hidden;
+}
+
+.EntrarLogo {
+  width: 100%;
+  max-width: 150px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.EntrarLogo h2 {
+  text-align: center;
+}
+
+.EntrarFormItem {
+  margin: 5% 0;
+}
+
+.EntrarFormSignup {
+  margin: 7% 0;
+  font-size: .88em;
+}
+
+.EntrarFormSignup {
+  text-align: center;
+}
+
+.EntrarFormSignup a,
+.EntrarFormRemember label {
+  margin-left: 5px;
+}
+
+.EntrarFormSignup a {
+  font-weight: 600;
+}
+
+.EntrarFormRemember * {
+  display: inline-block;
+}
+
+.EntrarFormFooter {
+  margin: 5% 0;
+  font-size: .98em;
+}
+
+.EntrarFormFooter a {
+  color: blue;
+}
+
+/* Esquema de cores */
+
+@media (prefers-color-scheme: dark) {
+}

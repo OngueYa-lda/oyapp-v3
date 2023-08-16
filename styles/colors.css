@@ -1,0 +1,12 @@
+:root {
+  color-scheme: light dark;
+
+  --brand-color: #2738f4;
+
+  --selection-color: #000000;
+  --selection-bg: #d0d7ff;
+
+  --scroll-track-color: none;
+  --scroll-thumb-bg: #a8aefc;
+  --scroll-thumb-outline: none;
+}

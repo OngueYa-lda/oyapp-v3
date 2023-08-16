@@ -1,0 +1,28 @@
+.Container {
+  max-width: 1000px;
+  margin: 1% auto;
+  padding: 1em;
+}
+
+.Content {
+  padding: 2em 0;
+}
+
+.Content h1 {
+  font-size: 3em;
+}
+
+.Footer {
+  padding: 2% 0;
+}
+
+.Text {
+  line-height: 30px;
+  margin: 2em 0;
+  list-style: inside;
+}
+
+.Text strong {
+  font-weight: 500;
+  font-size: 1.125em;
+}

@@ -1,0 +1,707 @@
+{
+  "name": "Hotéis",
+  "data": [
+    {
+      "id": "1",
+      "dataKind": "hoteis",
+      "name": "Villa Hotel",
+      "slug": "villa-hotel",
+      "localizacao": {
+        "cidade": "Lubango",
+        "provincia": "Huíla",
+        "texto": "Bairro da Micha 2"
+      },
+      "preco": {
+        "minimo": "8.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/qrt.jpg",
+        "/assets/imagens/hotel.jpg",
+        "/assets/imagens/hotel.jpg",
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 2
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer",
+          "Reembolso completo"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "2",
+      "dataKind": "hoteis",
+      "name": "Hotel Victoria Garden",
+      "slug": "hotel-victoria-garden",
+      "localizacao": {
+        "cidade": "Tombua",
+        "provincia": "Namibe",
+        "texto": "Tombua/Namibe"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg",
+        "/assets/imagens/qrt.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer",
+          "Reembolso completo"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cartao": false,
+          "cash": true,
+          "multicaixa": true,
+          "visa": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "3",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel3",
+      "localizacao": {
+        "cidade": "Caxito",
+        "provincia": "Bengo",
+        "texto": "Caxito/Bengo"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer",
+          "Reembolso parcial"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "4",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel4",
+      "localizacao": {
+        "cidade": "Caxito",
+        "provincia": "Bengo",
+        "texto": "Caxito/Bengo"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 4
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer",
+          "Reembolso parcial"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": false,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "5",
+      "dataKind": "hoteis",
+      "name": "Hotel Lubango",
+      "slug": "hotel-lubango",
+      "localizacao": {
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "texto": "Lubango/Huila"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 5
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "6",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel6",
+      "localizacao": {
+        "cidade": "Tombua",
+        "provincia": "Namibe",
+        "texto": "Tombua/Namibe"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 2
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "7",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel7",
+      "localizacao": {
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "texto": "Lubango/Huila"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "8",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel8",
+      "localizacao": {
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "texto": "Lubango/Huila"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 4
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    },
+    {
+      "id": "9",
+      "dataKind": "hoteis",
+      "name": "OngueYa Hotel",
+      "slug": "ongueya-hotel9",
+      "localizacao": {
+        "cidade": "Lubango",
+        "provincia": "Huila",
+        "texto": "Lubango/Huila"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "fixo": "20.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "/assets/imagens/hotel.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "",
+        "outros": []
+      },
+      "email": "usuario@email.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 655 443",
+          "telefone": "+244 929 655 443"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancela quando quizer"
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": null
+        },
+        "checkout": {
+          "hora": null
+        },
+        "outros": []
+      },
+      "outros": []
+    }
+  ]
+}

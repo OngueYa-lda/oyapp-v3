@@ -1,0 +1,1286 @@
+{
+  "name": "Hotéis",
+  "data": [
+    {
+      "id": "1",
+      "dataKind": "hoteis",
+      "name": "Hotel Ritz Sumbe",
+      "slug": "hotel-ritz-sumbe",
+      "localizacao": {
+        "cidade": "Sumbe",
+        "provincia": "Cuanza Sul",
+        "texto": "Marginal do Sumbe - Rua 4 de Fevereiro"
+      },
+      "preco": {
+        "minimo": "11.200",
+        "maximo": "52.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664447221/oyweb-images/hoteis/hotel-ritz-sumbe/s6_tw060q.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674659843/oyweb-images/hoteis/hotel-ritz-sumbe/Ritz-sumbe_cjzwtf.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674659843/oyweb-images/hoteis/hotel-ritz-sumbe/Hotel-sumbeRtz_b4pbgt.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674659843/oyweb-images/hoteis/hotel-ritz-sumbe/Ritz-hotel-sumbe_lbxce0.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1664447220/oyweb-images/hoteis/hotel-ritz-sumbe/s2_wt62hr.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664447220/oyweb-images/hoteis/hotel-ritz-sumbe/s3_opw6bw.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664447220/oyweb-images/hoteis/hotel-ritz-sumbe/s4_hyqw0l.png"
+      ],
+      "informacoes": {
+        "detalhes": "O Hotel Sumbe oferece toda experiência hoteleira necessária na cidade do Sumbe. É uma referência de acomodação nesta cidade litoral, e pelo resto da província do Cuanza Sul.",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "942 692 321",
+          "telefone": "+244 942 692 321"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "2",
+      "dataKind": "hoteis",
+      "name": "Hotel Victoria Garden",
+      "slug": "hotel-victoria-garden",
+      "localizacao": {
+        "cidade": "Luanda",
+        "provincia": "Luanda",
+        "texto": "Estrada da Camama - Junto ao Estádio 11 de Novembro"
+      },
+      "preco": {
+        "minimo": "54.900",
+        "maximo": "171.300",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664199009/oyweb-images/hoteis/hotel-victoria-garden/v1_q1zqct.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199011/oyweb-images/hoteis/hotel-victoria-garden/v7_jswvyx.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199012/oyweb-images/hoteis/hotel-victoria-garden/v3_ytaecg.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199010/oyweb-images/hoteis/hotel-victoria-garden/v5_rr15el.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199009/oyweb-images/hoteis/hotel-victoria-garden/v4_kdnyuy.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199009/oyweb-images/hoteis/hotel-victoria-garden/v6_fysqr3.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199009/oyweb-images/hoteis/hotel-victoria-garden/v2_pebx5l.png"
+      ],
+      "informacoes": {
+        "detalhes": "O Hotel Victoria Garden é um hotel de referência na parte sul da cidade de Luanda, oferece conforto, segurança e óptimas condições para relaxar. É uma referência na hotelaria angolana",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "922 705 292",
+          "telefone": "+244 930 134 463"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 5
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "piscina": true,
+          "ginasio": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": false,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "3",
+      "dataKind": "resorts",
+      "name": "Thomson Art House",
+      "slug": "boutique-hotel-thomson-art-house",
+      "localizacao": {
+        "cidade": "Ilha do Cabo",
+        "provincia": "Luanda",
+        "texto": "Avenida Murtala Mohamed, 260"
+      },
+      "preco": {
+        "minimo": "40.000",
+        "maximo": "75.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674500208/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya5_xne45w.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500207/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya6_g21abu.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500211/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya1_ifgyiq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500210/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya4_whxkss.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500211/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya2_ptgxlb.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500211/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya3_j6blyk.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500207/oyweb-images/hoteis/thomson-art-house/Art_House-ongueya6_g21abu.jpg"
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Thomson Art House - boutique hotel localizado na Ilha do Cabo. ",
+          "Oferece aos seus hôspedes acomodações por vista mar, e vista cidade, ", 
+          "ainda, serviços de restauração, lavandaria, transporte aeroporto-hotel",
+          "e vice-versa, city tour, e Wi-fi gratis"
+        ],
+        "outros": []
+      },
+      "email": "reservations@thomsonhouseangola.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "918 001 001",
+          "telefone": "+244 991 836 102"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 0
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancelamento 48 horas da data do checkin.",
+          "Caso não, a unidade cobra 50% da diária."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": false,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": true,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "eventos": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": false,
+          "restaurante": true,
+          "bar": false,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "14h"
+        },
+        "checkout": {
+          "hora": "12h"
+        }
+      }
+    },
+
+    {
+      "id": "4",
+      "dataKind": "hoteis",
+      "name": "Hotel Nempanzu II",
+      "slug": "hotel-nempanzu",
+      "localizacao": {
+        "cidade": "Soyo",
+        "provincia": "Zaire",
+        "texto": "Rua principal do Matadouro"
+      },
+      "preco": {
+        "minimo": "31.920",
+        "maximo": "156.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674499553/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya7_pvi8ei.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya4_b1lvaf.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya1_z1wx1n.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya3_anfxns.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya2_hw11fe.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya6_f8epkl.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499552/oyweb-images/hoteis/hotel-nempanzu/Hotel-nempanzu-ongueya5_s1xirz.jpg"               
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O Hotel Nempanzu dispõe aos seus hôspedes quartos com ar condicionado, WC com chuveiro, wi-fi. ",
+          "A unidade dispõe de sistema de electricidade da rede pública, 2 geradores de energia alternativa de 900kv para ",
+          "garantir a energia 24/24h. Dispõe também de um ginásio, e piscina. ", 
+          
+          "Para a alimentação dos seus hôspedes, o hotel dispõe de 2 restaurantes onde o restaurante Panzu trabalha ",
+          "com sistema de buffet com saladas, 1 sugestão de peixe, 2 sugestões de carne, 1 sugestão vegetariana ",
+          "diariamente, acompanhamentos, doces e frutas onde o cliente se serve do que desejar ou a la carte. ",
+          "O pequeno almoço em buffet é servido a partir das 05h:30, o almoço a partir das 12h:00 até 15h e o jantar ",
+          "das 18h30 até 23h00. O bar da piscina funciona das 13h00 até 23h30, e o bar capacala dentro do hotel ",
+          "funciona das 09h30 até 23h00."          
+        ],
+        "outros": []
+      },
+      "email": "geral@hotelnempanzu.net",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 077 006",
+          "telefone": "922 701 287"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 4
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Até 24h antes sem custo, menos de 24h antes, tem custo de 50% do valor da reserva."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "8h"
+        },
+        "checkout": {
+          "hora": "17h"
+        }
+      }
+    }, 
+
+    {
+      "id": "5",
+      "dataKind": "hoteis",
+      "name": "Hotel Ritz Aanisa",
+      "slug": "hotel-ritz-aanisa",
+      "localizacao": {
+        "cidade": "Calulo",
+        "provincia": "Cuanza Sul",
+        "texto": "Rua 11 de Novembro"
+      },
+      "preco": {
+        "minimo": "17.800",
+        "maximo": "27.200",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664198613/oyweb-images/hoteis/hotel-ritz-aanisa/a3_m9ohrq.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198612/oyweb-images/hoteis/hotel-ritz-aanisa/a2_i0p32u.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198613/oyweb-images/hoteis/hotel-ritz-aanisa/a4_gzgmpc.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198614/oyweb-images/hoteis/hotel-ritz-aanisa/a5_ax2pof.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198613/oyweb-images/hoteis/hotel-ritz-aanisa/a1_rn2sut.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198614/oyweb-images/hoteis/hotel-ritz-aanisa/a6_oqwlv6.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198614/oyweb-images/hoteis/hotel-ritz-aanisa/a8_fkeohz.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198615/oyweb-images/hoteis/hotel-ritz-aanisa/a7_gfkkns.png"
+      ],
+      "informacoes": {
+        "detalhes": "O Aanisa a opção ideal para quem pretende efectuar a estadia em Calulo. A unidade é agradável, e oferece serviços de apoio ao hôspede.",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "948 988 706",
+          "telefone": "+244 948 988 706"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "6",
+      "dataKind": "hoteis",
+      "name": "Hotel Roma",
+      "slug": "hotel-roma",
+      "localizacao": {
+        "cidade": "Huambo",
+        "provincia": "Huambo",
+        "texto": "Rua da Independência - Cidade Baixa"
+      },
+      "preco": {
+        "minimo": "15.750",
+        "maximo": "36.300",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664199063/oyweb-images/hoteis/hotel-roma/ro8_eexau6.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199063/oyweb-images/hoteis/hotel-roma/ro6_rowy6l.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199062/oyweb-images/hoteis/hotel-roma/ro5_gsjr5y.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199062/oyweb-images/hoteis/hotel-roma/ro7_fiymej.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199063/oyweb-images/hoteis/hotel-roma/ro8_eexau6.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199063/oyweb-images/hoteis/hotel-roma/ro6_rowy6l.png"
+      ],
+      "informacoes": {
+        "detalhes": "A cidade do Huambo é a segunda maior cidade de Angola, após a capital Luanda, e denominada a cidade vida... e o Hotel Roma faz jus a esta denomiação, uma unidade que oferece o conforto necessário para uma agradável estadia nesta cidade.",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "926 923 481",
+          "telefone": "+244 926 923 481"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "7",
+      "dataKind": "hoteis",
+      "name": "Hotel Laúca",
+      "slug": "hotel-lauca",
+      "localizacao": {
+        "cidade": "Menongue",
+        "provincia": "Cuando Cubango",
+        "texto": "Rua/Br. da Saúde"
+      },
+      "preco": {
+        "minimo": "26.650",
+        "maximo": "33.300",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664198903/oyweb-images/hoteis/hotel-lauca/l7_yplv3c.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198906/oyweb-images/hoteis/hotel-lauca/l3_dywlh3.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198906/oyweb-images/hoteis/hotel-lauca/l8_xl5nre.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198904/oyweb-images/hoteis/hotel-lauca/l6_agr3wq.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198903/oyweb-images/hoteis/hotel-lauca/l4_uve8fs.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198903/oyweb-images/hoteis/hotel-lauca/l5_zjyrsz.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198906/oyweb-images/hoteis/hotel-lauca/l10_nsawlc.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198906/oyweb-images/hoteis/hotel-lauca/l2_s9xhoi.png"
+      ],
+      "informacoes": {
+        "detalhes": "Hotel Laúca agradável para quem pretende explorar a cidade de Menongue, na província do Progresso. Conforto não falta, muito menos a gastronomia local.",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 708 415",
+          "telefone": "+244 929 708 415"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "8",
+      "dataKind": "hoteis",
+      "name": "Brisotel",
+      "slug": "brisotel-mar",
+      "localizacao": {
+        "cidade": "Samba",
+        "provincia": "Luanda",
+        "texto": "Estrada da Samba, Corimba"
+      },
+      "preco": {
+        "minimo": "37.250",
+        "maximo": "68.750",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel2_rwqgp1.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel3_vctekr.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel4_iwzmor.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel5_wcnz9k.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel6_ntsgvy.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674499782/oyweb-images/hoteis/brisotel/Brisotel1_workqc.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674659228/oyweb-images/hoteis/brisotel/Brisotel7_gvajr3.jpg"           
+      ],
+      "informacoes": {
+        "detalhes": "O Brisotel é uma unidade hoteleira de 2 estrelas com 4 tipologias de  quartos com vista a mar, oferece a calmia, o sossego, o conforto, o necessário para ter uma óptima experiência nesta localidade. Disponibiliza aos seus hôspedes a gastronomia local, bem como a gastronomia popular para aconchegar todos os que escolhem a unidade para a sua estadia.",
+        "outros": []
+      },
+      "email": "brisotelmar@gmail.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "933 472 424",
+          "telefone": "997 040 920"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 2
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "48 horas de antecedência."
+        ],
+        "instalacoesFisicas": {
+          "parque": true,
+          "piscina": true,
+          "ginasio": false
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+
+    {
+      "id": "9",
+      "dataKind": "hoteis",
+      "name": "Hotel Ritz Waku Kungo",
+      "slug": "hotel-ritz-waku-kungo",
+      "localizacao": {
+        "cidade": "Waku Kungo",
+        "provincia": "Cuanza Sul",
+        "texto": "Rua 4 de Fevereiro"
+      },
+      "preco": {
+        "minimo": "11.700",
+        "maximo": "43.200",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": false
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1664199030/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w1_dwrwhk.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674660544/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/Hotel-ww_fwf2to.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1664199030/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w6_gfmkew.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199029/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w5_j01mks.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199029/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w2_ys9avc.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199029/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w4_hmkeh9.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664199029/oyweb-images/hoteis/Hotel%20Ritz/Wacu%20Cungo/w3_mnoycb.png"
+      ],
+      "informacoes": {
+        "detalhes": "Com a sua peculiaridade, típica da sua região, o Hotel Wako Kungo oferece condições favoráveis e agradáveis a quem escolhe esta unidade para sua acomodação.",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "927 328 962",
+          "telefone": "+244 927 328 962"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 3
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },
+    
+    {
+      "id": "10",
+      "dataKind": "resorts",
+      "name": "Rio Cuebe Lodge",
+      "slug": "rio-cuebe-lodge",
+      "localizacao": {
+        "cidade": "Menongue",
+        "provincia": "Cuando Cubango",
+        "texto": "Estrada de Menongue - Caiundo, KM 11 Missombo"
+      },
+      "preco": {
+        "minimo": "20.000",
+        "maximo": "25.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674500010/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya6_esnnbg.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500011/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya4_mph2lh.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500010/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya2_lv5ryn.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500010/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya5_m13acq.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500010/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya3_p0ovst.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500011/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-ogueya1_gw9uwx.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674659371/oyweb-images/hoteis/cuebe-lodge/Cuebe-lodge-oy_wqw0zl.jpg"
+      ],
+      "informacoes": {
+        "detalhes": "O Cuebe Lodge oferece a calmia, o sossego, o conforto, o necessário para ter uma óptima experiência nesta linda cidade. Disponibiliza aos seus hôspedes a gastronomia local, bem como a gastronomia popular para aconchegar todos os que escolhem a unidade para a sua estadia.",
+        "outros": []
+      },
+      "email": "reservas.riocuebelodge@gmail.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "930 134 463",
+          "telefone": "+244 930 134 463"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 0
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        },
+        "outros": [
+          "restaurante",
+          "piscina"
+        ]
+      }
+    },
+
+    {
+      "id": "11",
+      "dataKind": "hoteis",
+      "name": "Hotel Residencial Ritz Capital",
+      "slug": "hotel-residencial-ritz-capital",
+      "localizacao": {
+        "cidade": "Luanda",
+        "provincia": "Luanda",
+        "texto": "Rua da Missão nº 32/ 1º e 2º andar"
+      },
+      "preco": {
+        "minimo": "20.600",
+        "maximo": "24.900",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": false
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674660943/oyweb-images/hoteis/hotel-residencial-capital/RitzCapital_y3yuiy.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1664198859/oyweb-images/hoteis/hotel-residencial-capital/c5_jzafnq.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198859/oyweb-images/hoteis/hotel-residencial-capital/c2_xp8o9e.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198859/oyweb-images/hoteis/hotel-residencial-capital/c1_jkrlvv.png",
+        "https://res.cloudinary.com/oy/image/upload/v1664198858/oyweb-images/hoteis/hotel-residencial-capital/c3_f0daqe.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674660943/oyweb-images/hoteis/hotel-residencial-capital/RitzCapitalH_utelkq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674660948/oyweb-images/hoteis/hotel-residencial-capital/RitzHCaptl_wa0hin.jpg"
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O Hotel Residencial Ritz Capital está situado no coração da cidade de Luanda, ", 
+          "conecta os demais pontos de referência desta cidade, como a Baía de Luanda, ",
+          "e a Ilha de Luanda onde pode desfrutar das belas praias e de uma larga oferta ",
+          "de restaurantes. A unidade oferece um espaço aconchegante, segurança aos seus ", 
+          "hôspedes, e toda condição necessária para o usufruir de uma óptima estadia."
+        ],
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "929 714 652",
+          "telefone": "+244 924 257 413"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 2
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": false,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "eventos": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    },   
+
+    {
+      "id": "12",
+      "dataKind": "resorts",
+      "name": "Resort Kinwica",
+      "slug": "resort-kinwica",
+      "localizacao": {
+        "cidade": "Soyo",
+        "provincia": "Zaire",
+        "texto": "Estrada do Kinwica, Bairro Kindombele, Rua 1"
+      },
+      "preco": {
+        "minimo": "34.400",
+        "maximo": "57.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": false,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya_bm1sqe.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya4_jn0zlg.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya2_xdur7c.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya5_rnrmso.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya1_sbwxma.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya6_a6t2ev.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500351/oyweb-images/hoteis/resort-kinwica/Resort-kinwica-ongueya3_l7lwjm.jpg"
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A unidade está próximo da zona comercial que dista à 5 minutos, ",
+          "e também próximo do aeroporto e do centro da cidade à 12 minutos. ", 
+          "A unidade está localizada no meio da natureza, com acesso directo ao ",
+          "Rio Zaire. Aldeamento eco-turístico composto por bunglows, equipados ",
+          "com TV, AC (ar-condicionado), frigobar, microondas. A unidade também possui restaurante com ",
+          "esplanada, piscina, e um mini-ginásio."
+        ],
+        "outros": []
+      },
+      "email": "kinwica@gmail.com",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "926 502 044",
+          "telefone": "+244 926 502 044"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 0
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "Cancelamento até 24 horas da data do checkin.",
+          "Últimas 12h é cobrado 50% da diária.",
+          "Após, é cobrado 100% da diária."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": true,
+          "ginasio": true,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": false,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": false,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": true,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "14h"
+        },
+        "checkout": {
+          "hora": "12h"
+        }
+      }
+    },
+
+    {
+      "id": "13",
+      "dataKind": "resorts",
+      "name": "Estalagem Muconga",
+      "slug": "estalagem-muconga",
+      "localizacao": {
+        "cidade": "Libolo",
+        "provincia": "Cuanza-Sul",
+        "texto": "Estrada 120, Munenga"
+      },
+      "preco": {
+        "minimo": "12.540",
+        "maximo": "18.240",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga2_ooljth.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga1_glmsxb.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga2_ooljth.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga1_glmsxb.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga2_ooljth.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga1_glmsxb.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500483/oyweb-images/hoteis/estalagem-muconga/Muconga2_ooljth.jpg"
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A unidade "
+        ],
+        "outros": []
+      },
+      "email": " ",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "922 336 303",
+          "telefone": "+244 930 134 460"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 0
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, ",
+          "a mesma estará confirmada. Havendo necessidade de cancelamento ou ",
+          "alteração da data da reserva, o cliente deverá comunicar com antecedência. O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": false,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": false,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": false,
+          "eventos": true,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": false,
+          "bar": false,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    }, 
+
+    {
+      "id": "14",
+      "dataKind": "hoteis",
+      "name": "Hotel Rural Fazenda Cabuta",
+      "slug": "hotel-rural-fazenda-cabuta",
+      "localizacao": {
+        "cidade": "Libolo",
+        "provincia": "Cuanza-Sul",
+        "texto": "Km 25 depois da Vila de Calulo"
+      },
+      "preco": {
+        "minimo": "15.000",
+        "maximo": "28.600",
+        "moeda": "kz",
+        "moedaNome": "kwanza",
+        "taxas": true,
+        "cancelamento": true
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674500565/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Hotel-fazenda-cabuta1_goklay.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500566/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Hotel-fazenda-cabuta4_dljdzd.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500565/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Hotel-fazenda-cabuta2_ymzvhh.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674500565/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Hotel-fazenda-cabuta3_nlv7jl.png",
+        "https://res.cloudinary.com/oy/image/upload/v1674659565/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Rural-cabuta_akarh7.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674659565/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Rural-cabuta2_ggru2d.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674500566/oyweb-images/hoteis/hotel-rural-fazenda-cabuta/Hotel-fazenda-cabuta4_dljdzd.png"     
+      ],
+      "informacoes": {
+        "detalhes": "O Hotel Rural Cabuta...",
+        "outros": []
+      },
+      "email": "",
+      "contactos": [
+        {
+          "tipo": "mobile",
+          "codigo": "+244",
+          "numero": "948 988 747",
+          "telefone": "+244"
+        }
+      ],
+      "classificacao": {
+        "estrelas": 0
+      },
+      "comodidades": {
+        "politicaDeCancelamento": [
+          "A partir da confirmação do pagamento da reserva, a mesma estará confirmada. Havendo necessidade de cancelamento ou alteração da data da reserva, o cliente deverá comunicar com antecedência.",
+          "O cancelamento ou alteração de data estará sujeito à disponibilidade de cobrança de taxas."
+        ],
+        "instalacoesFisicas": {
+          "parque": false,
+          "piscina": false,
+          "ginasio": false,
+          "outros": []
+        },
+        "servicosOferecidos": {
+          "room": true,
+          "lavandaria": false,
+          "outros": []
+        },
+        "tipoDeEventos": {
+          "reuniao": true,
+          "eventos": false,
+          "outros": []
+        },
+        "internet": {
+          "wifi": true,
+          "outros": []
+        },
+        "alimentacao": {
+          "breakfast": true,
+          "restaurante": true,
+          "bar": true,
+          "outros": []
+        },
+        "tipoPagamento": {
+          "cash": true,
+          "multicaixa": true,
+          "visa": false,
+          "outros": []
+        },
+        "checkin": {
+          "hora": "18h"
+        },
+        "checkout": {
+          "hora": "11h"
+        }
+      }
+    }
+
+  ]
+}

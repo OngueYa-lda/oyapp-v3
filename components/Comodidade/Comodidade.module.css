@@ -1,0 +1,7 @@
+.Comodidade[data-state=on] {
+  color: #024202;
+}
+
+.Comodidade[data-state=off] {
+  color: #8a0000;
+}

@@ -1,0 +1,33 @@
+.Input {
+  position: relative;
+}
+
+.InputLabel {
+  position: relative;
+  z-index: 2;
+  color: #202020;
+  font-size: 13px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.InputField {
+  padding: 10px 12px;
+  border-radius: 3px;
+  border: 1px solid #e2e2e2;
+  background-color: #ffffff;
+  color: #000000;
+  display: block;
+  width: 100%;
+}
+
+.InputField:focus {
+  border: 1px solid var(--brand-color);
+  outline: 1px solid var(--brand-color);
+}
+
+.InputNonText {
+  max-width: 100%;
+  width: fit-content;
+}

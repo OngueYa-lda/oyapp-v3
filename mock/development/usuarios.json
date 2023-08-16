@@ -1,0 +1,11 @@
+{
+  "name": "Usuarios",
+  "data": [
+    {
+      "dataKind": "usuarios",
+      "name": "Ongueya",
+      "email": "oy@ongueya.com",
+      "senha": "123pass"
+    }
+  ]
+}

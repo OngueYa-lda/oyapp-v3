@@ -1,0 +1,2155 @@
+{
+  "name": "Quartos",
+  "data": [
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Quarto Twin",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "11.200",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "15.500",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Quarto Duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "17.400",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Quarto Twin",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "21.600",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Suite Executiva",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "39.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-sumbe",
+      "dataKind": "quartos",
+      "name": "Suite Presidencial",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "52.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "54.900",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "twin/Duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "68.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "Suite Junior",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "82.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "Suite Paradise",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "100.400",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "Suite Queen",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "136.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-victoria-garden",
+      "dataKind": "quartos",
+      "name": "Suite King",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "171.300",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-residencial-ritz-capital",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "20.600",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-residencial-ritz-capital",
+      "dataKind": "quartos",
+      "name": "twin/duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "24.900",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-waku-kungo",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "11.700",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama extra - 7.000"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-waku-kungo",
+      "dataKind": "quartos",
+      "name": "Quarto Duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "17.400",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama extra - 7.000"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-waku-kungo",
+      "dataKind": "quartos",
+      "name": "Suite Júnior",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "18.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-waku-kungo",
+      "dataKind": "quartos",
+      "name": "Suite Executiva",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "43.200",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 7.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-aanisa",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "17.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 8.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-aanisa",
+      "dataKind": "quartos",
+      "name": "Quarto Duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "22.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 8.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-aanisa",
+      "dataKind": "quartos",
+      "name": "Quarto Twin",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "22.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 8.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-ritz-aanisa",
+      "dataKind": "quartos",
+      "name": "Suite",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "27.200",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 8.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-roma",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "16.900",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-roma",
+      "dataKind": "quartos",
+      "name": "Quarto Duplo/Casal",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": ["casal"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "19.700",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-roma",
+      "dataKind": "quartos",
+      "name": "Quarto Twin",
+      "tamanho": null,
+      "cama": 2,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "22.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-roma",
+      "dataKind": "quartos",
+      "name": "Suite Junior",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "24.900",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-roma",
+      "dataKind": "quartos",
+      "name": "Suite Executiva",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "39.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-lauca",
+      "dataKind": "quartos",
+      "name": "Quarto Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "32.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-lauca",
+      "dataKind": "quartos",
+      "name": "Quarto Twin",
+      "tamanho": null,
+      "cama": 2,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "35.700",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "hotel-lauca",
+      "dataKind": "quartos",
+      "name": "Quarto duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": ["casal"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "35.700",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "21.600",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 6.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Dupla",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": ["casal"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "26.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 6.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "rio-cuebe-lodge",
+      "dataKind": "quartos",
+      "name": "Suite Twin",
+      "tamanho": null,
+      "cama": 2,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "26.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "outros": [
+                "Cama Extra - 5.000 kz"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "boutique-hotel-thomson-art-house",
+      "dataKind": "quartos",
+      "name": "Quarto duplo - Vista cidade",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 3,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "61.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama extra para criança até 12 anos"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": false,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "boutique-hotel-thomson-art-house",
+      "dataKind": "quartos",
+      "name": "Quarto duplo - Vista mar",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 3,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "66.500",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama extra para criança até 12 anos"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": false,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "boutique-hotel-thomson-art-house",
+      "dataKind": "quartos",
+      "name": "Suite Vista cidade/mar",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 3,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "75.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "Cama extra para criança até 12 anos"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": false,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "resort-kinwica",
+      "dataKind": "quartos",
+      "name": "Quarto single",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "34.200",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                ""
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "resort-kinwica",
+      "dataKind": "quartos",
+      "name": "Quarto duplo casal",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "39.900",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                ""
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "resort-kinwica",
+      "dataKind": "quartos",
+      "name": "Quarto duplo twin",
+      "tamanho": null,
+      "cama": 2,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "47.880",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                " "
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "resort-kinwica",
+      "dataKind": "quartos",
+      "name": "Quarto triplo",
+      "tamanho": null,
+      "cama": 3,
+      "capacidade": 3,
+      "tiposDeCama": ["Solteira + Beliche"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "53.580",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "(Single + Beliche)"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "hotel": "resort-kinwica",
+      "dataKind": "quartos",
+      "name": "Quarto familiar",
+      "tamanho": null,
+      "cama": 3,
+      "capacidade": 4,
+      "tiposDeCama": ["casal + beliche"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "57.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+                "(Casal + Beliche)"
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    
+    {
+      "hotel": "estalagem-muconga",
+      "dataKind": "quartos",
+      "name": "Quarto casal",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "12.540",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    
+    {
+      "hotel": "estalagem-muconga",
+      "dataKind": "quartos",
+      "name": "Quarto twin",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "12.540",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+        
+    {
+      "hotel": "estalagem-muconga",
+      "dataKind": "quartos",
+      "name": "Suite king",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "18.540",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "Single complexo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "15.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "Duplo sanzala",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "15.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "twin complexo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "17.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "Duplo complexo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "19.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "Duplo sanzala",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "17.800",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "suite sanzala",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "24.400",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-rural-fazenda-cabuta",
+      "dataKind": "quartos",
+      "name": "suite casa colonial",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": [],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "28.600",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-nempanzu",
+      "dataKind": "quartos",
+      "name": "quarto single",
+      "tamanho": null,
+      "cama": 2,
+      "capacidade": 2,
+      "tiposDeCama": ["Solteira"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "31.920",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-nempanzu",
+      "dataKind": "quartos",
+      "name": "quarto duplo",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 2,
+      "tiposDeCama": ["king size"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "42.500",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-nempanzu",
+      "dataKind": "quartos",
+      "name": "suite júnior",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": ["king size"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "59.750",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "hotel": "hotel-nempanzu",
+      "dataKind": "quartos",
+      "name": "suite presidencial",
+      "tamanho": null,
+      "cama": 1,
+      "capacidade": 1,
+      "tiposDeCama": ["king size"],
+      "imagens": [],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 0,
+            "disponibilidade": "",
+            "preco": {
+              "fixo": "175.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": true,
+              "cancelamento": true
+            },
+            "comodidades": {
+              "outros": [
+
+              ],
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

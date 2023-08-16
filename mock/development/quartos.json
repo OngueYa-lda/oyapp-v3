@@ -1,0 +1,151 @@
+{
+  "name": "Unidades",
+  "data": [
+    {
+      "id": 1,
+      "dataKind": "unidades",
+      "name": "Quarto duplo Classico, 1 King size",
+      "slug": "quarto-duplo-classico-1-king-size",
+      "tamanho": "26",
+      "camas": 2,
+      "tiposDeCama": [
+        "1 cama king"
+      ],
+      "imagens": [
+        "/assets/imagens/qrt.jpg",
+        "/assets/imagens/hotel.jpg"
+      ],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 100,
+            "disponibilidade": "20 de Outubro",
+            "preco": {
+              "minimo": "15.000",
+              "fixo": "35.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          },
+          {
+            "option": 2,
+            "reembolso": 100,
+            "disponibilidade": "25 de Outubro",
+            "preco": {
+              "minimo": "18.000",
+              "fixo": "31.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": false,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          },
+          {
+            "option": 3,
+            "reembolso": 50,
+            "disponibilidade": "25 de Outubro",
+            "preco": {
+              "minimo": "18.000",
+              "fixo": "31.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": false,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "dataKind": "unidades",
+      "name": "Quarto Classico",
+      "slug": "quarto-classico",
+      "tamanho": "30",
+      "camas": 2,
+      "tiposDeCama": [
+        "1 cama king"
+      ],
+      "imagens": [
+        "/assets/imagens/qrt.jpg",
+        "/assets/imagens/hotel.jpg"
+      ],
+      "options": {
+        "data": [
+          {
+            "option": 1,
+            "reembolso": 100,
+            "disponibilidade": "20 de Outubro",
+            "preco": {
+              "minimo": "15.000",
+              "fixo": "35.000",
+              "moeda": "kz",
+              "moedaNome": "kwanza",
+              "taxas": false,
+              "cancelamento": false
+            },
+            "comodidades": {
+              "internet": {
+                "wifi": true,
+                "outros": []
+              },
+              "alimentacao": {
+                "breakfast": true,
+                "outros": []
+              },
+              "instalacoesFisicas": {
+                "parque": true,
+                "outros": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

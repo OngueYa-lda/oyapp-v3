@@ -1,0 +1,810 @@
+{
+  "name": "Experiencias",
+  "data": [
+    {
+      "id": "1",
+      "dataKind": "experiencias",
+      "name": "Passeio à Cavalo para Adultos",
+      "slug": "passeio-a-cavalo-para-adultos",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "5.750",
+        "fixo": "5.750",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é realizada num circulo fechado, numa fazenda. ",
+          "Esta actvidade oferece uma óptima experiência de passeio à cavalo. ",
+          "Os cavalos utilizados nos passeios são bem treinados, com técnicas específicas ",
+          "que se tornarão domesticados. Portanto, não há qualquer perigo para os humanos. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "A fazenda possui mais de 50 cavalos, mas apenas são usados 5 cavalos ",
+          "para os clientes. Não é temporizado o uso dos cavalos aos clientes, ",
+          "pode cavalgar o tempo que for necessário, mas deve respeitar o tempo de cada um cliente."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "2",
+      "dataKind": "experiencias",
+      "name": "Passeio à Cavalo para Crianças",
+      "slug": "passeio-a-cavalo-para-criancas",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "3.450",
+        "fixo": "3.450",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é realizada num circulo fechado, numa fazenda. ",
+          "Esta actvidade oferece uma óptima experiência de passeio à cavalo. ",
+          "Os cavalos utilizados nos passeios são bem treinados, com técnicas específicas ",
+          "que se tornarão domesticados. Portanto, não há qualquer perigo para os humanos. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "A fazenda possui mais de 50 cavalos, mas apenas são usados 5 cavalos ",
+          "para os clientes. Não é temporizado o uso dos cavalos aos clientes, ",
+          "pode cavalgar o tempo que for necessário, mas deve respeitar o tempo de cada um cliente."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "3",
+      "dataKind": "experiencias",
+      "name": "Tour Educacional",
+      "slug": "tour-educacional",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "1.955",
+        "fixo": "1.955",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya6_urctet.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya_bbacep.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya2_ctqup2.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503522/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya7_clpheq.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya5_skdpiv.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503523/oyweb-images/experiencias/fazenda-tungane/passeio-cavalo/tungane-passeio-cavalo-ongueya3_hlmkfv.jpg"        
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade é dedicada exclusivamente para crianças e adolescentes. ",
+          "Um tour guiado, feito numa fazenda, que tem como propósito divertir as crianças, bem como. ",
+          "os adolescentes, e estimulá-los aos gosto de fazer turismo. ",
+          "Estão incluídos para esta actividade: lanche + sumo natural + visita guiada. "
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Esta actividade é somente para as crianças e adolescente. ",
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar"
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "4",
+      "dataKind": "experiencias",
+      "name": "Acampamento na Fazenda",
+      "slug": "acampamento-na-fazenda",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "51.750",
+        "fixo": "51.750",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp4_utciyn.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg", 
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg",     
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg", 
+        "https://res.cloudinary.com/oy/image/upload/v1674671684/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp2_q5j81g.jpg" 
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O acampamento é feito na fazenda, com todas as condições necessárias. ",
+          "Para o acampamento está incluido gratuitamente alimentação (matabicho + almoço + jantar), ",
+          "bem como, actividades como: passeio à cavalo, tour educacional, e ainda ",
+          "algumas actividades extras. O alojamento está salvaguardado, o mesmo é feito em tendas. ",
+          "Em 3 dias e 2 noites. Tudo isso para que possas ter uma óptima experiência."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": true,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "5",
+      "dataKind": "experiencias",
+      "name": "Acampamento Duplo",
+      "slug": "acampamento-duplo",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "80.500",
+        "fixo": "80.500",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674671682/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp3_g6px2y.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp4_utciyn.jpg",        
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg", 
+        "https://res.cloudinary.com/oy/image/upload/v1674671682/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp3_g6px2y.jpg",    
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp4_utciyn.jpg",     
+        "https://res.cloudinary.com/oy/image/upload/v1674671682/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp3_g6px2y.jpg"     
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O acampamento é feito na fazenda, com todas as condições necessárias. ",
+          "Para o acampamento está incluido gratuitamente alimentação (matabicho + almoço + jantar), ",
+          "bem como, actividades como: passeio à cavalo, tour educacional, e ainda ",
+          "algumas actividades extras. O alojamento está salvaguardado, o mesmo é feito em tendas. ",
+          "Em 3 dias e 2 noites. Tudo isso para que possas ter uma óptima experiência."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Casal"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": true,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "6",
+      "dataKind": "experiencias",
+      "name": "Acampamento Plus",
+      "slug": "acampamento-plus",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "138.000",
+        "fixo": "138.000",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp1_h1fhxx.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp4_utciyn.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp1_h1fhxx.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503270/oyweb-images/experiencias/fazenda-tungane/acampamentto/tungane-acampamento-ongueya1_ugude4.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674671683/oyweb-images/experiencias/fazenda-tungane/acampamentto/acamp4_utciyn.jpg"
+      ],
+      "informacoes": {
+        "detalhes": [
+          "O acampamento é feito na fazenda, com todas as condições necessárias. ",
+          "Para o acampamento está incluido gratuitamente alimentação (matabicho + almoço + jantar), ",
+          "bem como, actividades como: passeio à cavalo, tour educacional, e ainda ",
+          "algumas actividades extras. O alojamento está salvaguardado, o mesmo é feito em tendas. ",
+          "Em 3 dias e 2 noites. Tudo isso para que possas ter uma óptima experiência."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Grupo de 4"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": true,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "7",
+      "dataKind": "experiencias",
+      "name": "Massagem Facial ao Ar Livre",
+      "slug": "massagem-facial-ao-ar-livre",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "25.300",
+        "fixo": "25.300",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp",
+        "https://res.cloudinary.com/oy/image/upload/v1674670369/oyweb-images/experiencias/fazenda-tungane/massagem/massagem3_ok2tlt.webp"        
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A massagem é feita ao ar livre, rodeiado  da natureza, num Spa rural, por baixo de árvores, ",
+          "na fazenda tungane local dos recreios. Massagem relaxantes, que proporciona uma ",
+          "sensação agradével. Está incluído: Almoço + Bebidas + Manicure + Pedicure + Passeio à cavalo + Massagem facial + Massagem nos pés."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "8",
+      "dataKind": "experiencias",
+      "name": "Piquenique",
+      "slug": "piquenique",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "1.955",
+        "fixo": "1.955",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674503406/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya6_q2k8ek.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503406/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya2_hncoor.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503405/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya1_p5p1gu.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503406/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya6_q2k8ek.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503406/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya2_hncoor.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503405/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya1_p5p1gu.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674503406/oyweb-images/experiencias/fazenda-tungane/piquenique/tungane-piquenique-ongueya2_hncoor.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "Esta actividade oferece uma experiência única para quem quer viver novos ",
+          "momentos e ter memórias incríveis. O piquenique é feito ao ar livre, de baixo ",
+          "de árvores. Está incluído almofada + esteira. O cliente pode levar a sua ",
+          "alimentação. Caso não queira levar a sua refeição, a fazenda tem disponível ",
+          "os seus próprios menus de comidas e bebidas."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar. "
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": false,
+          "bebidas": false
+        }
+      }
+    },
+
+    {
+      "id": "9",
+      "dataKind": "experiencias",
+      "name": "Massagem Relaxante ao Ar Livre",
+      "slug": "massagem-relaxante-ao-ar-livre",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "31.050",
+        "fixo": "31.050",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670371/oyweb-images/experiencias/fazenda-tungane/massagem/massagem_lc2mot.jpg"       
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A massagem é feita ao ar livre, rodeiado  da natureza, num Spa rural, por baixo de árvores, ",
+          "na fazenda tungane local dos recreios. Massagem relaxantes, que proporciona uma ",
+          "sensação agradével. Está incluído: Almoço + Bebidas de boas vindas + Manicure + Pedicure + Passeio à cavalo + Massagem nos pés + Massagem relaxante nos ombros e nas costas."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "10",
+      "dataKind": "experiencias",
+      "name": "Massagem Relaxante Completa",
+      "slug": "massagem-relaxante-completa",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "36.800",
+        "fixo": "36.800",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg"        
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A massagem é feita ao ar livre, rodeiado  da natureza, num Spa rural, por baixo de árvores, ",
+          "na fazenda tungane local dos recreios. Massagem relaxantes, que proporciona uma ",
+          "sensação agradével. Está incluído: Almoço + Bebidas de chegada + Manicure + Pedicure + Passeio à cavalo + Massagem corporal completa."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Por pessoa"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    },
+
+    {
+      "id": "11",
+      "dataKind": "experiencias",
+      "name": "Massagem Relaxante Completa Duplo",
+      "slug": "massagem-relaxante-completa-duplo",
+      "localizacao": {
+        "cidade": "Viana",
+        "provincia": "Luanda",
+        "texto": "Calumbo, Entrada do hospital CETEP"
+      },
+      "preco": {
+        "minimo": "48.300",
+        "fixo": "48.300",
+        "moeda": "kz",
+        "moedaNome": "kwanza"
+      },
+      "data": {
+        "dia": "00",
+        "mes": "00",
+        "ano": "2023",
+        "tempo": "Realiza-se todos os dias"
+      },
+      "hora": {
+        "comeca": "8h",
+        "termina": "18h"
+      },
+      "imagens": [
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg",        
+        "https://res.cloudinary.com/oy/image/upload/v1674670372/oyweb-images/experiencias/fazenda-tungane/massagem/massagem2_hogppw.jpg"         
+      ],
+      "informacoes": {
+        "detalhes": [
+          "A massagem é feita ao ar livre, rodeiado  da natureza, num Spa rural, por baixo de árvores, ",
+          "na fazenda tungane local dos recreios. Massagem relaxantes, que proporciona uma ",
+          "sensação agradével. Está incluído: Almoço + Bebidas de chegada + Manicure + Pedicure + Passeio à cavalo + Massagem corporal completa."
+        ],
+        "politicaDeCancelamento": [
+          "O cancelamento é feito 24 horas antes"
+        ],
+        "regrasGerais": [
+          "Deve se respeitar as normas da fazenda, bem como às outras pessoas que lá encontrar."
+        ],
+        "publico": [
+          "Para 2 pessoas"
+        ]
+      },
+      "categoriaGuiatur": {
+        "nome": "Mrs. Tracy",
+        "categoria": "Profissional"
+      },
+
+      "comodidades": {                
+        "servicosOferecidos": {
+          "transporte": false,
+          "alojamento": false,
+          "guiatur": true
+        },
+
+        "bilhete": true,
+
+        "alimentacao": {
+          "breakfast": true,
+          "bebidas": true
+        }
+      }
+    }
+
+  ]
+}
